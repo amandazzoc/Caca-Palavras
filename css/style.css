@@ -1,0 +1,37 @@
+td{
+    text-align: center;
+    width: 50px;
+    font-size: 25px;
+    height: 50px;
+}
+#palavras{
+    background-color: #73dfc4;
+    color: #000000;
+} 
+
+p{
+    font-size: 40px;
+    margin: auto;
+    text-align: center;
+    color: rgb(0, 0, 0);
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+    text-decoration: underline #41869b;
+    margin-top: 10px;
+}
+center{
+    font-size: 25px;
+    margin: auto;
+    text-align: center;
+    color: rgb(0, 0, 0);
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif
+}
+
+table,td{
+    border: 0px;
+    margin: auto;
+    margin-top: 20px;
+    border-style: ridge;
+    background-color: #41869b;
+    color: white;
+}
+
